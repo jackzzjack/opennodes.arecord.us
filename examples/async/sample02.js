@@ -1,5 +1,5 @@
 var async = require('async')
-  , request = require('request')
+  , request = require('request');
 
 var Q = [
   "http://www.google.com",
